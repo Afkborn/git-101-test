@@ -1,1 +1,2 @@
-print("hello world")
+test = int(input("year: "))
+print(test)
