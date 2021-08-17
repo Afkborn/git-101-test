@@ -7,3 +7,4 @@ DSC METU GITHUB 101
 
 Pull öğreniyoruz
 
+Push öğreniyoruz
